@@ -20,11 +20,6 @@ export const projects = [
     link: 'https://md-saheel.github.io/Pricing-Table-Project/">',
   },
   {
-    name: 'Landing Page',
-    image: 'pro4.png',
-    link: 'https://reliable-churros-22246b.netlify.app/',
-  },
-  {
     name: 'Documentation Page',
     image: 'pro3.png',
     link: 'https://eloquent-cassata-bfd435.netlify.app/',
