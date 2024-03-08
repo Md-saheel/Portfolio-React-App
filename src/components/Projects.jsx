@@ -5,6 +5,7 @@ import { projects } from '../assets/data';
 
 export default function Projects() {
   return (
+    <div id='work'>
     <section id='projects'>
       <div className='project-tile'>
         <h1 id='caption'>{'These are some of my projects'}</h1>
@@ -84,5 +85,6 @@ export default function Projects() {
         </a>
       </div>
     </section>
+   </div>
   );
 }
